@@ -1,2 +1,0 @@
-# devops_test
-gitbash
